@@ -32,3 +32,19 @@ $ python3 main.py
 ![Forth iteration](https://github.com/ABraik-bit/K-Means-toy-dataset/blob/main/plot5.png)
 ![Fifth iteration](https://github.com/ABraik-bit/K-Means-toy-dataset/blob/main/plot6.png)
 
+To understand the algorithm, here is an example of the final output of the data
+```
+   Object    X_value  Y_value   C1_Distance  C2_Distance Cluster
+0  Object 1        1        0     2.266912    10.049876      C1
+1  Object 2        2        0     1.343710     9.055385      C1
+2  Object 3        3       -1     1.674979     8.246211      C1
+3  Object 4        4        1     0.897527     7.000000      C1
+4  Object 5        4        2     1.572330     7.071068      C1
+5  Object 6        5        2     2.266912     6.082763      C1
+6  Object 7       10        0     6.865777     1.414214      C2
+7  Object 8       12        2     8.933396     1.414214      C2
+[[ 3.16666667  0.66666667]
+ [11.          1.        ]] #centroid findal coordinates 
+```
+
+
