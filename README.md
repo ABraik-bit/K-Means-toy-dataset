@@ -1,5 +1,5 @@
 ## K-Means-toy-dataset
-# This is an example of using the K-Means Cluster algorithm to solve a problem of finding the centroids in a toy 2D example 
+## This is an example of using the K-Means Cluster algorithm to solve a problem of finding the centroids in a toy 2D example 
 
 ## Prerequisites
 
