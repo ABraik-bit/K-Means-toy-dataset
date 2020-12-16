@@ -44,7 +44,7 @@ To understand the algorithm, here is an example of the final output of the data
 6  Object 7       10        0     6.865777     1.414214      C2
 7  Object 8       12        2     8.933396     1.414214      C2
 [[ 3.16666667  0.66666667]
- [11.          1.        ]] #centroid findal coordinates 
+ [11.          1.        ]] #centroid final coordinates 
 ```
 
 
