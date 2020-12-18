@@ -32,7 +32,7 @@ $ python3 main.py
 ![Forth iteration](https://github.com/ABraik-bit/K-Means-toy-dataset/blob/main/plot5.png)
 ![Fifth iteration](https://github.com/ABraik-bit/K-Means-toy-dataset/blob/main/plot6.png)
 
-To understand the algorithm, here is an example of the final output of the data
+To understand the algorithm, here is an example of the final output of the data.
 ```
    Object    X_value  Y_value   C1_Distance  C2_Distance Cluster
 0  Object 1        1        0     2.266912    10.049876      C1
